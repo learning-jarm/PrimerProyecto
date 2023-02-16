@@ -1,4 +1,4 @@
-#  learning-jarm
+#  First Project
 This project is designed to learn different programming languages such as:
 
 HTML
